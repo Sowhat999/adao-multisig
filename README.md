@@ -7,6 +7,7 @@
     transactions)
  3. Make it easy to sign transactions etc
  4. Flesh out and expand ADAO user interface
+ 5. Make it a catalyst alternative.
 
 ## Tasks
 
@@ -106,3 +107,4 @@ Tom's idea: allocate a portion of governance tokens to Holger's pool.
   ]
 }
 ```
+

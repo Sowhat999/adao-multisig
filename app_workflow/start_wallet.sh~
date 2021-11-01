@@ -1,3 +1,0 @@
-#!/bin/bash
-
-test-wallet serve --port 8081 --testnet

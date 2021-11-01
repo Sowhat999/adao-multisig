@@ -1,0 +1,33 @@
+{
+  "name": "Alan's Wallet",
+  "mnemonic_sentence": [
+    "squirrel",
+    "material",
+    "silly",
+    "twice",
+    "direct",
+    "slush",
+    "pistol",
+    "razor",
+    "become",
+    "junk",
+    "kingdom",
+    "flee",
+    "squirrel",
+    "silly",
+    "twice"
+  ],
+  "mnemonic_second_factor": [
+    "squirrel",
+    "material",
+    "silly",
+    "twice",
+    "direct",
+    "slush",
+    "pistol",
+    "razor",
+    "become"
+  ],
+  "passphrase": "Secure Passphrase",
+  "address_pool_gap": 20
+}

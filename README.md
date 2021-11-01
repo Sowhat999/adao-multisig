@@ -79,10 +79,7 @@ is the Haddock documentation for the shared addresses.
 
 ### Important
 
-[cardano-cli --tx-in-scrpt-file
-info](https://github.com/input-output-hk/iohk-monitoring-framework/wiki/Transaction-Generator:-Usage-Guide). [Here
-is documentation for simple
-scripts.](https://github.com/input-output-hk/cardano-node/blob/7a056fd4b0c810906f66b3acc3031b4a02472d45/doc/reference/simple-scripts.md)
+[cardano-cli --tx-in-scrpt-file info](https://github.com/input-output-hk/iohk-monitoring-framework/wiki/Transaction-Generator:-Usage-Guide). [Here is documentation for simple scripts.](https://github.com/input-output-hk/cardano-node/blob/7a056fd4b0c810906f66b3acc3031b4a02472d45/doc/reference/simple-scripts.md)
 This is actually completely sufficient.
 
 Tom's idea: allocate a portion of governance tokens to Holger's pool.
@@ -107,4 +104,9 @@ Tom's idea: allocate a portion of governance tokens to Holger's pool.
   ]
 }
 ```
+
+### Educational Microfinancing
+
+Let's look into this.
+
 
